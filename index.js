@@ -1,2 +1,6 @@
 /* Your code goes here */
-var customerName = "bob"
+var customerName = "bob";
+
+function upperCaseCustomerName() {
+  customerName = customerName.toupperCase
+}
